@@ -1,0 +1,16 @@
+User
+ ↓
+Web UI (Streamlit App)
+ ↓
+Master Agent (Orchestrator)
+ ↓
+----------------------------------
+| IQVIA Agent | Clinical Agent   |
+| Patent Agent| EXIM Agent       |
+| Web Agent   | Report Agent     |
+----------------------------------
+ ↓
+Mock Data Sources
+ ↓
+PDF Report + Audit Store
+
